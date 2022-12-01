@@ -1,0 +1,90 @@
+h1, h2, p, body, .zag1, .itog, .ssilki {
+    margin: 0;
+    padding: 0;
+  }
+
+h1 {
+    color: #FFFFFF;
+    font-family: "Times New Roman";
+    font-style: normal;
+    font-weight: 312px;
+    font-size: 50px;
+    line-height: 57px;
+    
+    background-color: #000000;
+    margin: 96px 65px 50px 65px;
+}
+
+.foto {
+    width: 900px;
+    height: 600px;
+
+    margin: 50px 475px 50px 65px;
+}
+
+.sodergan {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+    
+    margin: 50px 1175px 53px 38px;
+}
+
+h2 {
+    color: #FFFFFF;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 40px;
+    line-height: 46px;
+    
+    
+    background-color: #000000;
+    margin: 53px 65px;
+}
+
+.par{
+    color: #000000;
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-size: 25px;
+    line-height: 29px;
+
+    margin: 53px 72px 53px 65px;
+}
+
+.img {
+    margin: 15px 850px 15px 80px;
+}
+
+.pay {
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+
+    margin: 20px 1175px 20px 65px;
+}
+
+.ssilki { 
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+
+    margin: 53px 65px 50px 38px;
+}
+
+.itog { 
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 29px;
+
+    margin: 50px 69px 91px 68px;
+}
+
