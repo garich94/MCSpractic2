@@ -1,7 +1,13 @@
-h1, h2, p, body, .zag1, .itog, .ssilki {
+.container {
+    padding: 65px;
+}
+
+ul, ol {
     margin: 0;
     padding: 0;
-  }
+
+    list-style-position: inside;
+}
 
 h1 {
     color: #FFFFFF;
@@ -12,14 +18,14 @@ h1 {
     line-height: 57px;
     
     background-color: #000000;
-    margin: 96px 65px 50px 65px;
+    margin: 96px 65px;
 }
 
 .foto {
     width: 900px;
     height: 600px;
 
-    margin: 50px 475px 50px 65px;
+    margin: 50px 65px;
 }
 
 .sodergan {
@@ -29,7 +35,7 @@ h1 {
     font-size: 25px;
     line-height: 29px;
     
-    margin: 50px 1175px 53px 38px;
+    margin: 65px;
 }
 
 h2 {
@@ -51,7 +57,7 @@ h2 {
     font-size: 25px;
     line-height: 29px;
 
-    margin: 53px 72px 53px 65px;
+    margin: 53px 65px;
 }
 
 .img {
@@ -75,7 +81,7 @@ h2 {
     font-size: 25px;
     line-height: 29px;
 
-    margin: 53px 65px 50px 38px;
+    margin: 50px 65px;
 }
 
 .itog { 
@@ -85,6 +91,6 @@ h2 {
     font-size: 25px;
     line-height: 29px;
 
-    margin: 50px 69px 91px 68px;
+    margin: 65px;
 }
 
